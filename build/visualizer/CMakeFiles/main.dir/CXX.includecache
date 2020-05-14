@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../quadtree/src/quadtree/quadtree.hpp
+
+/home/ausaf/Documents/cpp_tutorials/quadtree/visualizer/visualizer.cpp
+iostream
+-
+SDL2/SDL.h
+-
+quadtree/quadtree.hpp
+-
+

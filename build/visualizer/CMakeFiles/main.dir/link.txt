@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -O3 -DNDEBUG  -rdynamic CMakeFiles/main.dir/visualizer.cpp.o  -o main  ../quadtree/libquadtree.a -lSDL2 
